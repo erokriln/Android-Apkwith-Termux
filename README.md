@@ -1,2 +1,2 @@
-# building start with termux
-#构建应用开始于Termux
+# building Android Application start with termux
+#构建Android 应用开始于Termux
