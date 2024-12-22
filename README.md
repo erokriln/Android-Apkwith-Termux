@@ -7,7 +7,8 @@
 资料 AndroidManifest.xml,Permissions,Intent,android.jar  api_source
 
 2.第二天 
-   构建流程,权限获取,配置保存?
+
+构建流程,权限获取,配置保存?
 
 
 
